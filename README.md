@@ -1,38 +1,37 @@
 # Olá, eu sou a Danielli! 👋
 
-Bem-vindo(a) ao meu espaço! Sou estudante de tecnologia, apaixonada por descobrir como as coisas funcionam por trás das telas.
+Estudante de tecnologia em transição de carreira, atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI**. 
+
+---
+
+### 📚 Jornada de Aprendizado
+Estou nos meus primeiros meses de estudo, focando em construir uma base sólida através das seguintes disciplinas:
+
+* **💻 LOPAL:** Lógica de Programação e Algoritmos
+* **🖥️ SOP:** Sistemas Operacionais
+* **🌐 ARI:** Redes com IoT (Internet das Coisas)
+* **📝 LER:** Levantamento de Requisitos
 
 ---
 
 ### 🚀 Sobre Mim
-* 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
-* 🌱 Iniciei minha jornada no mundo do desenvolvimento há poucos meses.
-* 🔍 No momento, estou focada em aprender a lógica de programação e os fundamentos da computação.
+* 🌱 **Foco atual:** Entender a lógica por trás do código e como os sistemas se comunicam.
+* 🔍 **Interesses:** Arquitetura de computadores, automação com IoT e análise de software.
+* ⚡ **Curiosidade:** Acredito que um bom software começa com um excelente levantamento de requisitos (LER).
 
 ---
 
-### 📚 O que estou explorando agora
-* **Lógica de Programação:** Entendendo como estruturar soluções.
-* **Fundamentos de TI:** Conhecendo o hardware, software e redes.
-* **Comunidade:** Aprendendo a usar o GitHub para documentar minha evolução.
+### 🛠️ No radar de estudos
+* [ ] Dominar os fundamentos de Algoritmos.
+* [ ] Explorar a integração de hardware e software em Redes.
+* [ ] Praticar a documentação de sistemas.
 
 ---
 
-### 🎯 Objetivos
-* [ ] Concluir meus primeiros projetos práticos no SENAI.
-* [ ] Escolher minha primeira linguagem de especialização.
-* [ ] Colaborar em projetos de código aberto no futuro.
-
----
-
-### 📫 Vamos conversar?
+### 📫 Vamos trocar uma ideia?
 * [LinkedIn](https://linkedin.com/in/seu-perfil-aqui) 🔗
 * [E-mail](mailto:seu-email@exemplo.com) ✉️
 
 ---
 
-*“A jornada de mil milhas começa com um único passo.”*
-
-> "O aprendizado é o único recurso que cresce quando compartilhado."
-
-![Danielli's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical)
+> "O código é a lei, mas a lógica é a base."
