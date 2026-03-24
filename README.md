@@ -1,16 +1,29 @@
-# Danielli Teste
+# Olá, eu sou a Danielli! 👋
 
-<!--
-**daniellimartins/daniellimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante apaixonada por tecnologia e em constante aprendizado no mundo do desenvolvimento. Atualmente, estou focando em construir uma base sólida para criar soluções inovadoras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação Atual
+* **Técnico em Desenvolvimento de Sistemas** | SENAI
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+*(Edite esta parte conforme você for aprendendo coisas novas!)*
+
+* **Linguagens:** Java, C#, SQL, HTML, CSS, JavaScript.
+* **Ferramentas:** Git, GitHub, VS Code, Pacote Office.
+* **Áreas de Interesse:** Desenvolvimento Web, Banco de Dados, UI/UX.
+
+---
+
+### 📈 Conecte-se comigo
+* [LinkedIn](https://linkedin.com/in/seu-link-aqui) 🔗
+* [E-mail](mailto:seu-email@exemplo.com) ✉️
+
+---
+
+> "O aprendizado é o único recurso que cresce quando compartilhado."
+
+![Danielli's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical)
