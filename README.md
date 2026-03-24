@@ -1,6 +1,6 @@
 # Olá, eu sou a Danielli! 👋
 
-Estudante de tecnologia em transição de carreira, atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI**. 
+Estudante de desenvolvimento de Sistemas no SENAI. 
 
 ---
 
