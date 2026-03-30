@@ -1,43 +1,19 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Prazer, sou a Danielli! 😉
 
-### 🚀 Estudante de Tecnologia | Ensino Médio & SENAI
+![giphy](https://github.com/user-attachments/assets/4738d5df-1351-4cd9-9692-71bb72751283)
 
-Atualmente, divido minha rotina entre o **Ensino Médio** e o curso técnico de **Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por resolver problemas através do código e estou construindo minha base para me tornar um desenvolvedor Full Stack.
 
----
 
-## 📖 Sobre Mim
+## 🔎 Sobre Mim
 
-Estou no início da minha jornada no mundo da programação, mas com foco total em aprender as melhores práticas do mercado. No SENAI, tenho tido contato direto com o ciclo de vida de desenvolvimento de software, desde a lógica inicial até a estruturação de bancos de dados.
+Atualmente, estou no Ensino Médio e cursando técnico de Desenvolvimento de Sistemas no SENAI, também curso inglês nível avançado. Tenho grandes sonhos e vontade de aprender, me interesso nessa área e quero crescer.
 
-* 🎓 **Educação:** Ensino Médio + Técnico em Desenvolvimento de Sistemas (SENAI).
-* 💡 **Interesses:** Desenvolvimento Web, Mobile e automação de processos.
-* 🎯 **Foco atual:** Aperfeiçoar meu domínio em [Inserir Linguagem, ex: JavaScript/Java] e Versionamento de Código (Git).
-* 📫 **Contato:** [Seu E-mail Profissional]
+* 🎓 **Interesses:** A arte me cativa, cinema, livros e músicas.
+* 💡 **Foco:** Seguir firme no curso e aprender a cada dia.
+* 🎯 **Meta:** Crescer no mercado de trabalho e  conseguir um emprego desejado, o resto eu resolvo.
 
 ---
 
-## 🛠️ Habilidades Técnicas
-
-Aqui estão algumas das tecnologias que estou estudando e aplicando em meus projetos no SENAI:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | [Ex: Java, C#, PHP ou Python] |
-| **Banco de Dados** | MySQL / SQL Server |
-| **Ferramentas** | VS Code, Git, GitHub |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔗 Conecte-se comigo
 
