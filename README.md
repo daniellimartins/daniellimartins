@@ -1,7 +1,5 @@
 # Prazer, sou a Danielli! 😉
 
-![giphy](https://github.com/user-attachments/assets/4738d5df-1351-4cd9-9692-71bb72751283)
-
 
 
 ## 🔎 Sobre Mim
